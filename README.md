@@ -1,4 +1,4 @@
-# Pengumpulan-Tugas-Sains-Data
+# Tugas-Individu-1
 ```
 Nama  : Niken Setiawati
 Nim   : 19.01.013.061
